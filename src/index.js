@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { NavBar } from "./navbar.js";
-// hi
+// hi test
 // https://stackoverflow.com/questions/31758081/loading-json-data-from-local-file-into-react-js
 import data from "./data.json";
 
